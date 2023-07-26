@@ -1,1 +1,1 @@
-![Project humbnail](./thumbnail.jpg)
+![Project thumbnail](./thumbnail.jpg)
